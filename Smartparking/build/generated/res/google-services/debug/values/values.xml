@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1076082148174-1f2nfgqfgtcg8p0rddp1bhkqjt7f1hjp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1076082148174</string>
+    <string name="google_api_key" translatable="false">AIzaSyD7gktZL11Gq-RK4n-0HiOKpGMJWEdAx8o</string>
+    <string name="google_app_id" translatable="false">1:1076082148174:android:7c14719d16d73c86ab141f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD7gktZL11Gq-RK4n-0HiOKpGMJWEdAx8o</string>
+    <string name="google_storage_bucket" translatable="false">smart-parking-5267f.appspot.com</string>
+    <string name="project_id" translatable="false">smart-parking-5267f</string>
+</resources>

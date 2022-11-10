@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ca.friends.and.co.it.smart.parking.Smartparking-mergeDebugResources-49:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Komal Bamotra\\.gradle\\caches\\transforms-3\\b1f91bd96f62e218e0b2b3a9d9e5b411\\transformed\\preference-1.2.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

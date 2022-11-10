@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_activity_login.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_background_splashscreen.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/background_splashscreen.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_home.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_bookmark_added_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_bookmark_added_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/navigation_mobile_navigation.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_contact_support_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_contact_support_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_booking_detail_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/booking_detail_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_settings.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/menu_main.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/menu/main.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_information.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_information.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_sharing_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/sharing_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_viber_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/viber_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable-v24_parking_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable-v24/parking_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_menu_gallery.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_activity_register.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/activity_register.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_parking_logo.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/parking_logo.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_share_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/share_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_parking_booth.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/parking_booth.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_call_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/call_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_share1.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/share1.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_message_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/message_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_contact.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/contact.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_navigation_header.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/navigation_header.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_side_nav_bar.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_support.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_support.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_share.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_share.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_nav_header_bg.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/nav_header_bg.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_livechat_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/livechat_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_share.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/share.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_teams_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/teams_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_library_books_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_library_books_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_logout.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_logout.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_logout_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_feedback.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_rectangleshape.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/rectangleshape.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_share_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_support_background1.jpg.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/support_background1.jpg"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_gmail_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/gmail_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_contacting_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/contacting_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/menu_navigation_menu.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/menu/navigation_menu.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_chat.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/chat.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_baseline_local_parking_24.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_baseline_local_parking_24.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_feedback.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/feedback.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_parking_slots.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/parking_slots.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_book1.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/book1.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_ic_menu_camera.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_book.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/book.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/xml_prefs.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/xml/prefs.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_settings_background.jpg.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/settings_background.jpg"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_instagram_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/instagram_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_parkingcar.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/parkingcar.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_messenger_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/messenger_icon.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_booking.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_booking.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_background.jpeg.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/background.jpeg"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_book2.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/book2.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_mail.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/mail.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable-v24_car_parking_info.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable-v24/car_parking_info.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/layout_fragment_booking_detail.xml.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/layout/fragment_booking_detail.xml"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_support.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/support.png"
+    },
+    {
+        "merged": "ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51:/drawable_emailing_icon.png.flat",
+        "source": "ca.friends.and.co.it.smart.parking.Smartparking-main-53:/drawable/emailing_icon.png"
+    }
+]
