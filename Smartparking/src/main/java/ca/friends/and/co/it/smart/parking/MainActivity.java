@@ -15,11 +15,13 @@ import androidx.preference.PreferenceManager;
 import android.Manifest;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.EditText;
 import android.widget.Toast;
 
 import com.google.android.material.navigation.NavigationView;
@@ -36,6 +38,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     public DrawerLayout drawerLayout;
     public ActionBarDrawerToggle actionBarDrawerToggle;
     Toolbar toolbar;
+
+
 
     private int PHONE_CODE = 1;
 
@@ -132,8 +136,13 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             //Opening logout fragment
             case R.id.nav_logout:
                 //  Toast.makeText(getApplicationContext(), "Logout page", Toast.LENGTH_SHORT).show();
-                if (this.fragmentLogout == null) this.fragmentLogout = LogoutFragment.newInstance();
-                this.startTransactionFragment(this.fragmentLogout);
+                SharedPreferences preferences1 = getSharedPreferences("checkbox1", MODE_PRIVATE);
+                SharedPreferences.Editor editor = preferences1.edit();
+                editor.putString("rememberme", "false");
+                editor.apply();
+
+                startActivity(new Intent(MainActivity.this, LoginActivity.class));
+
                 break;
 
             default:

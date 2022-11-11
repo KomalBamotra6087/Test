@@ -4,6 +4,7 @@ package ca.friends.and.co.it.smart.parking.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -31,15 +32,19 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final TextInputEditText etLoginPass;
 
   @NonNull
+  public final CheckBox remember;
+
+  @NonNull
   public final TextView tvRegisterHere;
 
   private ActivityLoginBinding(@NonNull LinearLayout rootView, @NonNull MaterialButton btnLogin,
       @NonNull TextInputEditText etLoginEmail, @NonNull TextInputEditText etLoginPass,
-      @NonNull TextView tvRegisterHere) {
+      @NonNull CheckBox remember, @NonNull TextView tvRegisterHere) {
     this.rootView = rootView;
     this.btnLogin = btnLogin;
     this.etLoginEmail = etLoginEmail;
     this.etLoginPass = etLoginPass;
+    this.remember = remember;
     this.tvRegisterHere = tvRegisterHere;
   }
 
@@ -88,6 +93,12 @@ public final class ActivityLoginBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.remember;
+      CheckBox remember = ViewBindings.findChildViewById(rootView, id);
+      if (remember == null) {
+        break missingId;
+      }
+
       id = R.id.tvRegisterHere;
       TextView tvRegisterHere = ViewBindings.findChildViewById(rootView, id);
       if (tvRegisterHere == null) {
@@ -95,7 +106,7 @@ public final class ActivityLoginBinding implements ViewBinding {
       }
 
       return new ActivityLoginBinding((LinearLayout) rootView, btnLogin, etLoginEmail, etLoginPass,
-          tvRegisterHere);
+          remember, tvRegisterHere);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

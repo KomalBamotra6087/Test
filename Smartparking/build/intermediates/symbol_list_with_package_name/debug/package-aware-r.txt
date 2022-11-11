@@ -3157,6 +3157,7 @@ id ratingBar
 id ratio
 id rectangles
 id recycler_view
+id remember
 id restart
 id reverse
 id reverseSawtooth
@@ -3473,7 +3474,6 @@ layout fragment_booking_detail
 layout fragment_feedback
 layout fragment_home
 layout fragment_information
-layout fragment_logout
 layout fragment_settings
 layout fragment_share
 layout fragment_support

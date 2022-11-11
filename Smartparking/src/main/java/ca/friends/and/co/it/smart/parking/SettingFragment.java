@@ -44,7 +44,7 @@ public class SettingFragment extends PreferenceActivity {
 
                 boolean yes = (boolean) o;
                 if (yes) {
-                    getListView().setBackgroundColor(Color.parseColor("#222222"));
+                    getListView().setBackgroundColor(Color.parseColor("222222#"));
                 } else {
                     getListView().setBackgroundColor(Color.parseColor("#ffffff"));
                 }

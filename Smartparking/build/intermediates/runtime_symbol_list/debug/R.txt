@@ -3156,6 +3156,7 @@ int id ratingBar 0x7f090198
 int id ratio 0x7f090199
 int id rectangles 0x7f09019a
 int id recycler_view 0x7f09019b
+int id remember 0x7f09025d
 int id restart 0x7f09019c
 int id reverse 0x7f09019d
 int id reverseSawtooth 0x7f09019e
@@ -3472,7 +3473,6 @@ int layout fragment_booking_detail 0x7f0c0033
 int layout fragment_feedback 0x7f0c0034
 int layout fragment_home 0x7f0c0035
 int layout fragment_information 0x7f0c0036
-int layout fragment_logout 0x7f0c0037
 int layout fragment_settings 0x7f0c0038
 int layout fragment_share 0x7f0c0039
 int layout fragment_support 0x7f0c003a

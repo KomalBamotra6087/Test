@@ -22,7 +22,6 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="45dp"
             android:text="Rate and Review"
-            android:textColor="@color/white"
             android:textSize="25dp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -34,8 +33,6 @@
         android:layout_marginStart="6dp"
         android:layout_marginTop="200dp"
         android:hint="What do you think about this appication? "
-        android:textColorHint="@color/white"
-        android:textColor="@color/white"
         android:textSize="20dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

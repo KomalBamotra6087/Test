@@ -1,54 +1,54 @@
-ca.friends.and.co.it.smart.parking.Smartparking-window-1.0.0-0 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\019225cbe2d8874f6a934004f38d130c\transformed\window-1.0.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-navigation-ui-2.5.2-1 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\0529ae2be44d6738c33962efe64e6058\transformed\navigation-ui-2.5.2\res
-ca.friends.and.co.it.smart.parking.Smartparking-play-services-basement-18.1.0-2 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\0ccd676f36a88f843cf47f86b0f66e38\transformed\play-services-basement-18.1.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-livedata-core-2.5.1-3 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\0facc693be2ea2b419c3d85e6b6bce7c\transformed\lifecycle-livedata-core-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-core-1.8.0-4 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\102215101d21fdb02f0f27bbfd4ebd5d\transformed\core-1.8.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-navigation-fragment-2.5.2-5 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\112c969fd1feda2c7b0ae3ec5773da32\transformed\navigation-fragment-2.5.2\res
-ca.friends.and.co.it.smart.parking.Smartparking-cardview-1.0.0-6 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\132f0038de43ddeabec8a216a692e5f1\transformed\cardview-1.0.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-runtime-ktx-2.5.1-7 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\13f938737fccfabcdfd3518bc6a05ae5\transformed\lifecycle-runtime-ktx-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-recyclerview-1.1.0-8 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\14621a386b20c825bf62b01149912eba\transformed\recyclerview-1.1.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-emoji2-views-helper-1.2.0-9 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\14b83c58c3c6dc64c194a8698de39ccb\transformed\emoji2-views-helper-1.2.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-viewpager2-1.0.0-10 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\22f9099c2abda7fff94076f7993b08de\transformed\viewpager2-1.0.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-core-ktx-1.8.0-11 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\2de7bbc95825b26bf74a489891976c67\transformed\core-ktx-1.8.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-emoji2-1.2.0-12 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\2ed499a9972c76584289d61187c198e3\transformed\emoji2-1.2.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-livedata-core-ktx-2.5.1-13 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\305e3dd11bf4b0836a32917dd986d5bf\transformed\lifecycle-livedata-core-ktx-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-appcompat-1.5.1-14 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\3884b320dccfe5fe24360e981acf9b57\transformed\appcompat-1.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-lottie-3.4.0-15 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\39084b11c09d71161ccd1ad2da8b8dd4\transformed\lottie-3.4.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-activity-1.5.1-16 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\4476652fa3eccc556d25aceed18f91ce\transformed\activity-1.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-constraintlayout-2.1.4-17 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\44c24a0ba9562c7bda90cd6278db8032\transformed\constraintlayout-2.1.4\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-livedata-ktx-2.5.1-18 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\45ee7a885f6aff8c0457a927fdcde63e\transformed\lifecycle-livedata-ktx-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-viewmodel-2.5.1-19 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\469909d8fd8c906576831ed638faf856\transformed\lifecycle-viewmodel-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-firebase-common-20.2.0-20 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\480b3dae7120d0220412229c8f9a6223\transformed\firebase-common-20.2.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-process-2.4.1-21 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\4f04b5d013d4e9a91b26580011dee398\transformed\lifecycle-process-2.4.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-runtime-2.5.1-22 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\6c1ccea930ec56c47c399d6791ab7b6c\transformed\lifecycle-runtime-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-viewmodel-ktx-2.5.1-23 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\6e24e4b579c63f1a5e0e3b64d63ad01c\transformed\lifecycle-viewmodel-ktx-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-browser-1.4.0-24 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\7941da3a4176cc86aa5dcbb619fbea47\transformed\browser-1.4.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-activity-ktx-1.5.1-25 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\7d19ade7191dbc00cbc506da81b52c83\transformed\activity-ktx-1.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-navigation-common-2.5.2-26 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\80657001a4e63d88ae402f40aa5e0eec\transformed\navigation-common-2.5.2\res
-ca.friends.and.co.it.smart.parking.Smartparking-fragment-1.5.2-27 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\9000a59b23de330ce00b46d53209bd76\transformed\fragment-1.5.2\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-livedata-2.5.1-28 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\a20427062ead86e6932736c13ec7c7f7\transformed\lifecycle-livedata-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-transition-1.4.1-29 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\a2e98504cc42a488cbf8da6e209b1568\transformed\transition-1.4.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-viewmodel-savedstate-2.5.1-30 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\a91b7991dad90a04254b7ff73649d501\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-play-services-base-17.1.0-31 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\a97d0c956d9db50bbd222a37f0beaae3\transformed\play-services-base-17.1.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-startup-runtime-1.1.1-32 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\aa727ded08411910cde21ce578b6f6a8\transformed\startup-runtime-1.1.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-preference-1.2.0-33 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\b1f91bd96f62e218e0b2b3a9d9e5b411\transformed\preference-1.2.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-navigation-runtime-2.5.2-34 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\b7a68d16763f9417b134c0d286c9b146\transformed\navigation-runtime-2.5.2\res
-ca.friends.and.co.it.smart.parking.Smartparking-savedstate-ktx-1.2.0-35 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\c6f5cc79b3f0dd351f422b64472a287c\transformed\savedstate-ktx-1.2.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-slidingpanelayout-1.2.0-36 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\cbc19b5943c72c24fa79ea7f17019289\transformed\slidingpanelayout-1.2.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-fragment-ktx-1.5.2-37 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\cddb6f399b8e3221a1b7c268c49127ba\transformed\fragment-ktx-1.5.2\res
-ca.friends.and.co.it.smart.parking.Smartparking-coordinatorlayout-1.1.0-38 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\d1350ca4937108931d93b191bc9e14c3\transformed\coordinatorlayout-1.1.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-drawerlayout-1.1.1-39 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\e64ec69f51d51c1870f65d11fa39ae28\transformed\drawerlayout-1.1.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-annotation-experimental-1.1.0-40 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\ebc5cdc968831466331bfc76f957101c\transformed\annotation-experimental-1.1.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-material-1.6.1-41 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\eca7f236a70dbe7915fa899436e02571\transformed\material-1.6.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-savedstate-1.2.0-42 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\ed198c72db21bb204f52d58b627e783f\transformed\savedstate-1.2.0\res
-ca.friends.and.co.it.smart.parking.Smartparking-android-gif-drawable-1.2.17-43 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\f3524406adef3b6f6b8cd186ba3e32b5\transformed\android-gif-drawable-1.2.17\res
-ca.friends.and.co.it.smart.parking.Smartparking-appcompat-resources-1.5.1-44 C:\Users\Komal Bamotra\.gradle\caches\transforms-3\f50893122efcee79e80072a2d630c9f0\transformed\appcompat-resources-1.5.1\res
-ca.friends.and.co.it.smart.parking.Smartparking-google-services-45 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\build\generated\res\google-services\debug
-ca.friends.and.co.it.smart.parking.Smartparking-pngs-46 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\build\generated\res\pngs\debug
-ca.friends.and.co.it.smart.parking.Smartparking-resValues-47 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\build\generated\res\resValues\debug
-ca.friends.and.co.it.smart.parking.Smartparking-rs-48 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\build\generated\res\rs\debug
-ca.friends.and.co.it.smart.parking.Smartparking-packageDebugResources-49 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-ca.friends.and.co.it.smart.parking.Smartparking-packageDebugResources-50 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\build\intermediates\merged_res\debug
-ca.friends.and.co.it.smart.parking.Smartparking-debug-52 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\src\debug\res
-ca.friends.and.co.it.smart.parking.Smartparking-main-53 C:\Users\Komal Bamotra\Desktop\SmartParking\Smartparking\src\main\res
+ca.friends.and.co.it.smart.parking.Smartparking-window-1.0.0-0 C:\Users\rames\.gradle\caches\transforms-3\019225cbe2d8874f6a934004f38d130c\transformed\window-1.0.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-navigation-ui-2.5.2-1 C:\Users\rames\.gradle\caches\transforms-3\0529ae2be44d6738c33962efe64e6058\transformed\navigation-ui-2.5.2\res
+ca.friends.and.co.it.smart.parking.Smartparking-play-services-basement-18.1.0-2 C:\Users\rames\.gradle\caches\transforms-3\0ccd676f36a88f843cf47f86b0f66e38\transformed\play-services-basement-18.1.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-livedata-core-2.5.1-3 C:\Users\rames\.gradle\caches\transforms-3\0facc693be2ea2b419c3d85e6b6bce7c\transformed\lifecycle-livedata-core-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-core-1.8.0-4 C:\Users\rames\.gradle\caches\transforms-3\102215101d21fdb02f0f27bbfd4ebd5d\transformed\core-1.8.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-navigation-fragment-2.5.2-5 C:\Users\rames\.gradle\caches\transforms-3\112c969fd1feda2c7b0ae3ec5773da32\transformed\navigation-fragment-2.5.2\res
+ca.friends.and.co.it.smart.parking.Smartparking-cardview-1.0.0-6 C:\Users\rames\.gradle\caches\transforms-3\132f0038de43ddeabec8a216a692e5f1\transformed\cardview-1.0.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-runtime-ktx-2.5.1-7 C:\Users\rames\.gradle\caches\transforms-3\13f938737fccfabcdfd3518bc6a05ae5\transformed\lifecycle-runtime-ktx-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-recyclerview-1.1.0-8 C:\Users\rames\.gradle\caches\transforms-3\14621a386b20c825bf62b01149912eba\transformed\recyclerview-1.1.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-emoji2-views-helper-1.2.0-9 C:\Users\rames\.gradle\caches\transforms-3\14b83c58c3c6dc64c194a8698de39ccb\transformed\emoji2-views-helper-1.2.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-viewpager2-1.0.0-10 C:\Users\rames\.gradle\caches\transforms-3\22f9099c2abda7fff94076f7993b08de\transformed\viewpager2-1.0.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-core-ktx-1.8.0-11 C:\Users\rames\.gradle\caches\transforms-3\2de7bbc95825b26bf74a489891976c67\transformed\core-ktx-1.8.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-emoji2-1.2.0-12 C:\Users\rames\.gradle\caches\transforms-3\2ed499a9972c76584289d61187c198e3\transformed\emoji2-1.2.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-livedata-core-ktx-2.5.1-13 C:\Users\rames\.gradle\caches\transforms-3\305e3dd11bf4b0836a32917dd986d5bf\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-appcompat-1.5.1-14 C:\Users\rames\.gradle\caches\transforms-3\3884b320dccfe5fe24360e981acf9b57\transformed\appcompat-1.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-lottie-3.4.0-15 C:\Users\rames\.gradle\caches\transforms-3\39084b11c09d71161ccd1ad2da8b8dd4\transformed\lottie-3.4.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-activity-1.5.1-16 C:\Users\rames\.gradle\caches\transforms-3\4476652fa3eccc556d25aceed18f91ce\transformed\activity-1.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-constraintlayout-2.1.4-17 C:\Users\rames\.gradle\caches\transforms-3\44c24a0ba9562c7bda90cd6278db8032\transformed\constraintlayout-2.1.4\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-livedata-ktx-2.5.1-18 C:\Users\rames\.gradle\caches\transforms-3\45ee7a885f6aff8c0457a927fdcde63e\transformed\lifecycle-livedata-ktx-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-viewmodel-2.5.1-19 C:\Users\rames\.gradle\caches\transforms-3\469909d8fd8c906576831ed638faf856\transformed\lifecycle-viewmodel-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-firebase-common-20.2.0-20 C:\Users\rames\.gradle\caches\transforms-3\480b3dae7120d0220412229c8f9a6223\transformed\firebase-common-20.2.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-process-2.4.1-21 C:\Users\rames\.gradle\caches\transforms-3\4f04b5d013d4e9a91b26580011dee398\transformed\lifecycle-process-2.4.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-runtime-2.5.1-22 C:\Users\rames\.gradle\caches\transforms-3\6c1ccea930ec56c47c399d6791ab7b6c\transformed\lifecycle-runtime-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-viewmodel-ktx-2.5.1-23 C:\Users\rames\.gradle\caches\transforms-3\6e24e4b579c63f1a5e0e3b64d63ad01c\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-browser-1.4.0-24 C:\Users\rames\.gradle\caches\transforms-3\7941da3a4176cc86aa5dcbb619fbea47\transformed\browser-1.4.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-activity-ktx-1.5.1-25 C:\Users\rames\.gradle\caches\transforms-3\7d19ade7191dbc00cbc506da81b52c83\transformed\activity-ktx-1.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-navigation-common-2.5.2-26 C:\Users\rames\.gradle\caches\transforms-3\80657001a4e63d88ae402f40aa5e0eec\transformed\navigation-common-2.5.2\res
+ca.friends.and.co.it.smart.parking.Smartparking-fragment-1.5.2-27 C:\Users\rames\.gradle\caches\transforms-3\9000a59b23de330ce00b46d53209bd76\transformed\fragment-1.5.2\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-livedata-2.5.1-28 C:\Users\rames\.gradle\caches\transforms-3\a20427062ead86e6932736c13ec7c7f7\transformed\lifecycle-livedata-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-transition-1.4.1-29 C:\Users\rames\.gradle\caches\transforms-3\a2e98504cc42a488cbf8da6e209b1568\transformed\transition-1.4.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-lifecycle-viewmodel-savedstate-2.5.1-30 C:\Users\rames\.gradle\caches\transforms-3\a91b7991dad90a04254b7ff73649d501\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-play-services-base-17.1.0-31 C:\Users\rames\.gradle\caches\transforms-3\a97d0c956d9db50bbd222a37f0beaae3\transformed\play-services-base-17.1.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-startup-runtime-1.1.1-32 C:\Users\rames\.gradle\caches\transforms-3\aa727ded08411910cde21ce578b6f6a8\transformed\startup-runtime-1.1.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-preference-1.2.0-33 C:\Users\rames\.gradle\caches\transforms-3\b1f91bd96f62e218e0b2b3a9d9e5b411\transformed\preference-1.2.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-navigation-runtime-2.5.2-34 C:\Users\rames\.gradle\caches\transforms-3\b7a68d16763f9417b134c0d286c9b146\transformed\navigation-runtime-2.5.2\res
+ca.friends.and.co.it.smart.parking.Smartparking-savedstate-ktx-1.2.0-35 C:\Users\rames\.gradle\caches\transforms-3\c6f5cc79b3f0dd351f422b64472a287c\transformed\savedstate-ktx-1.2.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-slidingpanelayout-1.2.0-36 C:\Users\rames\.gradle\caches\transforms-3\cbc19b5943c72c24fa79ea7f17019289\transformed\slidingpanelayout-1.2.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-fragment-ktx-1.5.2-37 C:\Users\rames\.gradle\caches\transforms-3\cddb6f399b8e3221a1b7c268c49127ba\transformed\fragment-ktx-1.5.2\res
+ca.friends.and.co.it.smart.parking.Smartparking-coordinatorlayout-1.1.0-38 C:\Users\rames\.gradle\caches\transforms-3\d1350ca4937108931d93b191bc9e14c3\transformed\coordinatorlayout-1.1.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-drawerlayout-1.1.1-39 C:\Users\rames\.gradle\caches\transforms-3\e64ec69f51d51c1870f65d11fa39ae28\transformed\drawerlayout-1.1.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-annotation-experimental-1.1.0-40 C:\Users\rames\.gradle\caches\transforms-3\ebc5cdc968831466331bfc76f957101c\transformed\annotation-experimental-1.1.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-material-1.6.1-41 C:\Users\rames\.gradle\caches\transforms-3\eca7f236a70dbe7915fa899436e02571\transformed\material-1.6.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-savedstate-1.2.0-42 C:\Users\rames\.gradle\caches\transforms-3\ed198c72db21bb204f52d58b627e783f\transformed\savedstate-1.2.0\res
+ca.friends.and.co.it.smart.parking.Smartparking-android-gif-drawable-1.2.17-43 C:\Users\rames\.gradle\caches\transforms-3\f3524406adef3b6f6b8cd186ba3e32b5\transformed\android-gif-drawable-1.2.17\res
+ca.friends.and.co.it.smart.parking.Smartparking-appcompat-resources-1.5.1-44 C:\Users\rames\.gradle\caches\transforms-3\f50893122efcee79e80072a2d630c9f0\transformed\appcompat-resources-1.5.1\res
+ca.friends.and.co.it.smart.parking.Smartparking-google-services-45 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\build\generated\res\google-services\debug
+ca.friends.and.co.it.smart.parking.Smartparking-pngs-46 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\build\generated\res\pngs\debug
+ca.friends.and.co.it.smart.parking.Smartparking-resValues-47 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\build\generated\res\resValues\debug
+ca.friends.and.co.it.smart.parking.Smartparking-rs-48 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\build\generated\res\rs\debug
+ca.friends.and.co.it.smart.parking.Smartparking-packageDebugResources-49 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+ca.friends.and.co.it.smart.parking.Smartparking-packageDebugResources-50 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+ca.friends.and.co.it.smart.parking.Smartparking-merged_res-51 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\build\intermediates\merged_res\debug
+ca.friends.and.co.it.smart.parking.Smartparking-debug-52 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\src\debug\res
+ca.friends.and.co.it.smart.parking.Smartparking-main-53 C:\Users\rames\AndroidStudioProjects\Testing2\Smartparking\src\main\res

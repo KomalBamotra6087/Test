@@ -4,10 +4,13 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -23,6 +26,7 @@ public class LoginActivity extends AppCompatActivity {
     TextInputEditText etLoginPassword;
     TextView tvRegisterHere;
     Button btnLogin;
+    CheckBox remember;
 
     FirebaseAuth mAuth;
 
@@ -35,14 +39,50 @@ public class LoginActivity extends AppCompatActivity {
         etLoginPassword = findViewById(R.id.etLoginPass);
         tvRegisterHere = findViewById(R.id.tvRegisterHere);
         btnLogin = findViewById(R.id.btnLogin);
+        remember = findViewById(R.id.remember);
 
         mAuth = FirebaseAuth.getInstance();
+
+        SharedPreferences preferences1 = getSharedPreferences("checkbox1",MODE_PRIVATE);
+        String checkbox = preferences1.getString("rememberme", "");
+        if(checkbox.equals("true")){
+            Intent intent = new Intent(LoginActivity.this, MainActivity.class );
+            startActivity(intent);
+        }
+        else{
+            Toast.makeText(this, "Please Sign in", Toast.LENGTH_SHORT).show();
+        }
+
 
         btnLogin.setOnClickListener(view -> {
             loginUser();
         });
         tvRegisterHere.setOnClickListener(view ->{
             startActivity(new Intent(LoginActivity.this, RegisterActivity.class));
+        });
+
+        remember.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                if(compoundButton.isChecked()){
+
+                    SharedPreferences preferences1 = getSharedPreferences("checkbox1", MODE_PRIVATE);
+                    SharedPreferences.Editor editor = preferences1.edit();
+                    editor.putString("rememberme", "true");
+                    editor.apply();
+                    Toast.makeText(LoginActivity.this, "Checked", Toast.LENGTH_SHORT).show();
+                }
+                else if(!compoundButton.isChecked()){
+
+                    SharedPreferences preferences1 = getSharedPreferences("checkbox1", MODE_PRIVATE);
+                    SharedPreferences.Editor editor = preferences1.edit();
+                    editor.putString("rememberme", "false");
+                    editor.apply();
+                    Toast.makeText(LoginActivity.this, "Unchecked", Toast.LENGTH_SHORT).show();
+
+                }
+
+            }
         });
     }
 
